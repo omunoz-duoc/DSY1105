@@ -1,0 +1,12 @@
+[
+  {"nombre": "Laptop", "precio": 1200, "categoria": "Electrónica"},
+  {"nombre": "Camiseta", "precio": 25, "categoria": "Ropa"},
+  {"nombre": "Cafetera", "precio": 80, "categoria": "Electrodomésticos"},
+  {"nombre": "Libro", "precio": 15, "categoria": "Libros"},
+  {"nombre": "Auriculares", "precio": 60, "categoria": "Electrónica"},
+  {"nombre": "Silla de oficina", "precio": 150, "categoria": "Muebles"},
+  {"nombre": "Zapatillas", "precio": 70, "categoria": "Calzado"},
+  {"nombre": "Mochila", "precio": 40, "categoria": "Accesorios"},
+  {"nombre": "Reloj", "precio": 200, "categoria": "Accesorios"},
+  {"nombre": "Smartphone", "precio": 900, "categoria": "Electrónica"}
+]
