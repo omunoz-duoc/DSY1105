@@ -45,9 +45,9 @@ src
   - Manejo de estados con clases selladas
 
 ### 🎯 evaluacion-01/
-**Proyecto de Kotlin de línea de comando**
+**Sistema de Gestión de Libros "BookSmart"**
 
-*[Espacio reservado para descripción del proyecto]*
+El proyecto consiste en desarrollar una aplicación de consola en Kotlin llamada "BookSmart", diseñada para gestionar el sistema de préstamos de una biblioteca. El objetivo es crear una solución funcional que integre los conceptos fundamentales de la programación aprendidos, como la programación orientada a objetos, el manejo de colecciones, las operaciones asíncronas y el control de errores.
 
 #### Estructura del Proyecto
 ```
